@@ -55,7 +55,7 @@ def correctText(fixed_output):
     fixed_output = combine_lines(fixed_output)
 
     client = OpenAI(
-        api_key="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",
+        api_key="",
     )
 
     completion = client.chat.completions.create(
