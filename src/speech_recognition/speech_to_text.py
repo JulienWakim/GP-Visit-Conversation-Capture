@@ -23,7 +23,7 @@ def getRawScript():
     # Constants
     #############################################
     FILE_NAME = "outputs/recording.wav"
-    HF_API_KEY = "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"
+    HF_API_KEY = ""
 
     #############################################
     # Step 1: Transcribe file
