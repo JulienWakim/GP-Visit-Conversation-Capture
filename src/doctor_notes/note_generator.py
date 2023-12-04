@@ -5,7 +5,7 @@ def generateNotes(fixed_output):
 
     client = OpenAI(
         # defaults to os.environ.get("OPENAI_API_KEY")
-        api_key='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',
+        api_key='',
     )
 
 
