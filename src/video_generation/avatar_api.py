@@ -7,7 +7,7 @@ from moviepy.editor import concatenate_videoclips, VideoFileClip
 
 TEST = True
 
-SYNTHESIA_API_KEY = '719c0c6ab9573006a956f501fee80e1d'
+SYNTHESIA_API_KEY = ''
 
 avatars = {
     'Male Doctor': 'james_costume1_cameraA',
